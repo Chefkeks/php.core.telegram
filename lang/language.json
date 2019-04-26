@@ -220,7 +220,7 @@
     "FR":"Pokemon"
   },
   "pokemon_types":{  
-    "NL":"TRANSLATE",
+    "NL":"Pokemon Types",
     "DE":"Pokemon-Typen",
     "EN":"Pokemon Types",
     "IT":"TRANSLATE",
@@ -250,7 +250,7 @@
     "FR":"Non"
   },
   "or":{  
-    "NL":"TRANSLATE",
+    "NL":"of",
     "DE":"oder",
     "EN":"or",
     "IT":"TRANSLATE",
@@ -290,7 +290,7 @@
     "FR":"Le processus à échoué !"
   },
   "select_action":{  
-    "NL":"TRANSLATE",
+    "NL":"Selecteer actie",
     "DE":"Aktion auswählen:",
     "EN":"Select action:",
     "IT":"TRANSLATE",
@@ -350,7 +350,7 @@
     "FR":"Supprimer"
   },
   "edit":{  
-    "NL":"TRANSLATE",
+    "NL":"Bewerken",
     "DE":"Bearbeiten",
     "EN":"Edit",
     "IT":"TRANSLATE",
@@ -430,7 +430,7 @@
     "FR":"Partagé avec succès !"
   },
   "invalid_input":{  
-    "NL":"TRANSLATE",
+    "NL":"Ongeldige input!",
     "DE":"Ungültige Eingabe!",
     "EN":"Invalid input!",
     "IT":"TRANSLATE",
@@ -450,7 +450,7 @@
     "FR":"Agrandir"
   },
   "none":{  
-    "NL":"TRANSLATE",
+    "NL":"Geen",
     "DE":"Keine",
     "EN":"None",
     "IT":"TRANSLATE",
@@ -460,7 +460,7 @@
     "FR":"TRANSLATE"
   },
   "other":{  
-    "NL":"TRANSLATE",
+    "NL":"Ander",
     "DE":"Sonstiges",
     "EN":"Other",
     "IT":"TRANSLATE",
